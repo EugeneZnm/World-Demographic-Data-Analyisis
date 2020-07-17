@@ -11,7 +11,7 @@ analysis of the worlds demographic data examining varibles such as: Birth Rates,
 
 General Summary
 
-The majority of the high-income countries have a low birth rate with a couple of outliers having both a high income and a high birth rate of 35 (these propbaly have a higher per capita income because of low popultion levels relative to their GDP but are still characterised by features developing low income countries. The particular country in this case is Gabon which happens to be resource rich -oil- but is still poorly developed, economically).
+The majority of the high-income countries have a low birth rate with a couple of outliers having both a high income and a high birth rate of 35. The outliers have high per capita income and birth rates because of low popultion levels relative to their GDP a common feature among resource rich, low population countries with poorly developed economies, slower communication networks, characterised by low internet penetration levels. The particular country in this case is Gabon which happens to be resource rich -oil- but with a poorly developed economy.).
 
 <img src="download 5.png" alt="Birth Rate elative to Income Levels"/>
 
